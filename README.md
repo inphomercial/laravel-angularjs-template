@@ -6,7 +6,9 @@ A base template that includes examples of a basic login/logout, protected routes
 
 # Steps #
 * Be sure to update the app/config/database.php file to match your local db settings.
+
 * Run php artisan migrate
+
 * Run php artisan db:seed
 
 * Login credentials should be test@gmail.com // test
