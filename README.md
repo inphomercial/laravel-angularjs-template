@@ -2,7 +2,7 @@ laravel-angularjs-template
 ==========================
 
 A PHP Laravel backend API &amp; AngularJS Front end.
-A base template that includes examples of a basic login/logout, protected routes, public routes,  
+A base template that includes examples of a basic login/logout, protected routes, public routes, etc.
 
 # Steps #
 * Be sure to update the app/config/database.php file to match your local db settings.
