@@ -1,7 +1,8 @@
 laravel-angularjs-template
 ==========================
 
-A PHP Laravel backend API &amp; AngularJS Front end.
+A PHP Laravel backend API &amp; AngularJS Front end example.
+
 A base template that includes examples of a basic login/logout, protected routes, public routes, etc.
 
 # Steps #
