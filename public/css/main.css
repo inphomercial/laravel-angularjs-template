@@ -1,0 +1,12 @@
+
+div {font-size: 12px;}
+
+#campaign_list {
+	width: 80%;
+	margin: auto;
+}
+
+.campaign_box {
+	width: 200px;
+	height: 300px;
+}
